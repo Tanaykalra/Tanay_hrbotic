@@ -1,0 +1,138 @@
+[{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d1"
+  },
+  "Revenue from Operations": 2814.43,
+  "Other Operating Income": 39,
+  "Interest Income": 3.332,
+  "Forex Flutuations": 1.032,
+  "Profit / Loss on sale of Financial Assets etc": 0.042,
+  "Dividend Income": 0,
+  "Miscellaneous Income": 30.756
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d2"
+  },
+  "COGS": {
+    "Add: Cost of Raw Material Consumed": 2378.1,
+    "Purchases of Stock in Trade,Traded Goods, WIP": 0,
+    "Changes in Inventories": -70.95
+  }
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d3"
+  },
+  "Expenses": {
+    "Employee Benefit Expenses": 88.25,
+    "Depreciation & Amortization Expenses": 54.07,
+    "Finance Costs": 52.857,
+    "Consumption of Stores and Spares": 0,
+    "Advertisement Expenses": 68.208,
+    "Power&Fuel": 42.852,
+    "Rent": 12.123,
+    "Repairs_and_Maintenance": 0,
+    "Travelling Expenses": 4.217,
+    "Insurance Expenses": 0.413,
+    "Printing & Stationery Exp": 0,
+    "Freight": 83.91,
+    "Commission": 68.208,
+    "Logistics,Transportation Exp": 0,
+    "Royalty Expenses": 0,
+    "Security Expenses": 1.397,
+    "Legal and Professional Exp": 11.719,
+    "Payment to Auditors": 0.402,
+    "Bad Debts written off": 26.753,
+    "Loss on Sale of Machinery": 0,
+    "Expenditure on CSR": 0,
+    "Other Expenses": 32.634
+  }
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d4"
+  },
+  "Net Profit": {
+    "Less: Tax Expenses": -1.304,
+    "Profit After Tax - PAT": 34.503,
+    "Add: Tax Expenses": -1.304,
+    "Profit Before Tax - PBT": 33.199,
+    "Add: Interest Expenses (Finance Costs)": 52.857,
+    "Profit Before Int & Tax - PBIT": 86.056,
+    "Add: Depreciation & Amortization Exp": 54.07,
+    "Profit Before Int & Tax & Dep & Amortin EBITDA": 140.126
+  }
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d5"
+  },
+  "NON-CURRENT LIABILITIES": {
+    "Long Term Borrowings": 204.6,
+    "Deferred Tax Liabilities [Net]": 1.46,
+    "Other Long Term Liabilities": 7.89,
+    "Long Term Provisions": 3.61
+  }
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d6"
+  },
+  "ASSETS": {
+    "NON-CURRENT ASSETS": {
+      "Tangible Assets": 311.2,
+      "Intangible Assets": 0.194,
+      "Capital Work-In-Progress": 8.64,
+      "Fixed Assets": 0,
+      "Non-Current Investments": 67.187,
+      "Long Term Loans And Advances": 31.53,
+      "Other Non-Current Assets": 48.36
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d7"
+  },
+  "ASSETS": {
+    "CURRENT ASSETS": {
+      "Inventories": 558.256,
+      "Trade Receivables": 159.87,
+      "Cash And Cash Equivalents": 14.53,
+      "Short Term Loans And Advances": 0,
+      "OtherCurrentAssets": 383.2
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d8"
+  },
+  "Face Value of Share": 10,
+  "No. of Shares Outstanding (Nos)": 117199826,
+  "Current Market Price of Share": 117.2,
+  "Market Capitalization": null,
+  "Enterprise Value (EV)": null,
+  "Dividend Per Share": 0,
+  "Total Dividend": null,
+  "Book Value Per Share": 72.8,
+  "Earnings Per Share": 2.94395e-7,
+  "Beta": 1.4,
+  "Volatility": 56.36
+},
+{
+  "_id": {
+    "$oid": "65c21272cb00ce97d73100d9"
+  },
+  "Cash Flows": {
+    "Net Profit": null,
+    "Net CashFlow From Operating Activities": -179,
+    "Net Cash Used In Investing Activities": -82,
+    "Net Cash Used From Financing Activities": 195,
+    "Net Inflow / Outflow from Activities": null,
+    "Cash And Cash Equivalents Begin of Year": 0,
+    "Cash And Cash Equivalents End Of Year": 14.53,
+    "Capital Expenditure": 86.65
+  }
+}]

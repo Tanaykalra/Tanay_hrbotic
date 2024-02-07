@@ -1,0 +1,185 @@
+[{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100dc"
+  },
+  "Revenue from Operations": "966,713,702",
+  "Other Operating Income": "0"
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100dd"
+  },
+  "Other Income (Indirect)": {
+    "Interest Income": "3,731,570.00",
+    "Forex Fluctuations": "0",
+    "Profit / Loss on sale of Financial Assets etc": "0",
+    "Dividend Income": "0",
+    "Miscellaneous Income": "249,359.00"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100de"
+  },
+  "Cost of Goods Sold (COGS)": {
+    "Add: Cost of Raw Material Consumed": "673,666,776",
+    "Add: Purchases of Stock in Trade, Traded Goods, WIP": "0",
+    "Add: Changes in Inventories": "-14,009,581"
+  },
+  "Gross Margin": "307,056,507"
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100df"
+  },
+  "Expenses": {
+    "Employee Benefit Expenses": 12708849,
+    "Depreciation & Amortization Expenses": 4163793,
+    "Finance Costs": 46251,
+    "Consumption of Stores and Spares": 0,
+    "Advertisement Expenses": 2482578,
+    "Electricity Charges": 10839780,
+    "Rent": 34940000,
+    "Repairs and Maintenance": 2663877,
+    "Travelling Expenses": 51640,
+    "Insurance Expenses": 937197,
+    "Printing & Stationery Exp": 658711,
+    "Freight": 0,
+    "Commission": 1535522,
+    "Logistics, Transportation Exp": 10887996,
+    "Information Technology Expenses": 11934,
+    "Telephone Postage": 70027,
+    "Donations Subscriptions": 230100,
+    "Books Periodicals": 900,
+    "Vehicle Running Expense": 2744619,
+    "Royalty Expenses": 30792,
+    "Security Expenses": 494000,
+    "Legal and Professional Exp": 1908551,
+    "Payment to Auditors": 178500,
+    "Other Assets Written Off": 241568,
+    "Loss on Sale of Machinery": 0,
+    "Expenditure on CSR": 1985939,
+    "MISC. Expenses": 42281773.1,
+    "Total Expenses": "89,813,124"
+  }
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e0"
+  },
+  "Net Profit": 178942538.9,
+  "Less: Tax Expenses": 47373096,
+  "Profit After Tax - PAT": 131569442.9,
+  "Add: Tax Expenses": 47373096,
+  "Profit Before Tax - PBT": 178942538.9,
+  "Add: Interest Expenses (Finance Costs)": 46251,
+  "Profit Before Int & Tax - PBIT": 178988789.9,
+  "Add: Depreciation & Amortization Exp": 4163793,
+  "Profit Before Int & Tax & Dep & Amortization EBITDA": 183152582.9
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e1"
+  },
+  "Particulars": {
+    "Equity Share Capital": {
+      "Equity Share Capital": 2220000,
+      "Preference Share Capital": 0,
+      "Total Share Capital": null
+    },
+    "Revaluation Reserves": 0,
+    "Current Year Surplus": 178942538.9,
+    "Reserves and Surplus": 391397531,
+    "Total Reserves and Surplus": 570340069.9,
+    "Employees Stock Options": 0,
+    "Total Shareholders Funds": 572560069.9
+  }
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e2"
+  },
+  "NON-CURRENT LIABILITIES": {
+    "Long Term Borrowings": 0,
+    "Deferred Tax Liabilities [Net]": 0,
+    "Other Long Term Liabilities": 0,
+    "Long Term Provisions": 2020372,
+    "Total Non-Current Liabilities": 2020372
+  }
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e3"
+  },
+  "CURRENT LIABILITIES": {
+    "Short Term Borrowings": 0,
+    "Trade Payables": 125161353,
+    "Other Current Liabilities": 35775969,
+    "Short Term Provisions": 48243946,
+    "Total Current Liabilities": 209181268
+  },
+  "Total Capital And Liabilities": 1356321780
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e4"
+  },
+  "ASSETS": {
+    "NON-CURRENT ASSETS": {
+      "Tangible Assets": 103151070,
+      "Intangible Assets": 2500000,
+      "Capital Work-In-Progress": 76377979,
+      "Fixed Assets": 0,
+      "Non-Current Investments": 0,
+      "Long Term Loans And Advances": 441720,
+      "Other Non-Current Assets": 0,
+      "Total Non-Current Assets": 182470769
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e5"
+  },
+  "CURRENT ASSETS": {
+    "Inventories": 115265417,
+    "Trade Receivables": 41536576,
+    "Cash And Cash Equivalents": 6194870,
+    "Short Term Loans And Advances": 242102595,
+    "OtherCurrentAssets": 17106599,
+    "Total Current Assets": 422206057
+  },
+  "Total Assets": 604676826
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e6"
+  },
+  "Face Value of Share": 10,
+  "No. of Shares Outstanding (Nos)": 222000,
+  "Current Market Price of Share": 0,
+  "Market Capitalization": null,
+  "Enterprise Value (EV)": null,
+  "Dividend Per Share": 0,
+  "Total Dividend": null,
+  "Book Value Per Share": 2579.099414,
+  "Earnings Per Share": 592
+},
+{
+  "_id": {
+    "$oid": "65c31fe6cb00ce97d73100e7"
+  },
+  "Cash Flows": {
+    "Net Profit": {
+      "Net CashFlow From Operating Activities": 64788512,
+      "Net Cash Used In Investing Activities": -75638717,
+      "Net Cash Used From Financing Activities": 0,
+      "Net final": -10850205
+    },
+    "Net Inflow / Outflow from Activities": {
+      "Cash And Cash Equivalents Begin of Year": 17045075,
+      "Cash And Cash Equivalents End Of Year": 6194870,
+      "Net": 10850205
+    }
+  }
+}]
